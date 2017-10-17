@@ -1,0 +1,23 @@
+commit 3bf4b82617f93951475acd5c32587654df0bb974
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Mon Nov 19 22:17:24 2012 +0000
+
+    Configured ALOS dataset.
+    
+    svn path=/branches/SciFlo/vm/soap/; revision=5187
+
+commit 9adfe8432c45a207f18608cb3950d3aeb8a9b7a5
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Nov 7 21:25:04 2012 +0000
+
+    Fixed for running on VM.
+    
+    svn path=/branches/SciFlo/vm/soap/; revision=5157
+
+commit 6b7a58a94b0b3729f1bc2f1329176793dd1c3da6
+Author: gmanipon <gmanipon@jpl.nasa.gov>
+Date:   Wed Nov 7 18:37:51 2012 +0000
+
+    Created soap branch for VM.
+    
+    svn path=/branches/SciFlo/vm/soap/; revision=5152
